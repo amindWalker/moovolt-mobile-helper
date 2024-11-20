@@ -221,7 +221,7 @@ Agora você tem todas as ferramentas essenciais para desenvolvimento instaladas 
 - **PowerShell mais recente** para automação e controle do sistema.
 - **Node.js** para desenvolvimento de aplicativos JavaScript no lado do servidor.
 - **Bun.js** como uma alternativa rápida ao Node.js.
-- **VSCode** para edição de código com uma interface moderna e funcionalidades poderosas.
+- **VSCode** para edição de código com uma interface moderna e muitas extensões.
 - **WSL2** para executar sistemas Linux dentro do Windows.
 
 Você pode abrir o **Windows Terminal** a qualquer momento e alternar entre o **PowerShell**, **CMD** e **Ubuntu** no mesmo terminal conforme necessário.
