@@ -58,7 +58,7 @@ Este comando utiliza o `irm` (Invoke-RestMethod) para baixar o conteúdo do scri
 
 ### Como Rodar o Script por Atalhos
 
-Agora que a execução de scripts está liberada, você pode criar um atalho para rodar o script usando o atalho **CTRL + X**.
+Agora que a execução de scripts está liberada, você pode criar um atalho para rodar o script usando um atalho.
 
 ### 1. Criar um Atalho
 
